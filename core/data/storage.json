@@ -1,0 +1,8 @@
+{
+    "_id": "ObjectId",
+    "url": "String",
+    "filename": "String",
+    "deleted": "Boolean",
+    "createdAt": "Date",
+    "updatedAt": "Date"
+}

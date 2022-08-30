@@ -1,0 +1,15 @@
+{
+    "_id":"ObjectId",
+    "name": "String",
+    "rol":"Enum",
+    "city":"String",
+    "condition":"Enum",
+    "abilites": "String",
+    "abilities2":"String",
+    "abilities3":"String",
+    "vehiclesId": "ObjectId",
+    "mediaId": "ObjectId",
+    "delete": "Boolean",
+    "createdAt": "Date",
+    "updatedAt": "Date"
+}
