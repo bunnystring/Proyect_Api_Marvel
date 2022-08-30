@@ -1,0 +1,3 @@
+user: root
+clave: DWi8lXS2huYOTci7
+DB_URI: mongodb+srv://root:DWi8lXS2huYOTci7@cluster0.tjyimpk.mongodb.net/ApiRest_Marvel?retryWrites=true&w=majority

@@ -1,0 +1,27 @@
+Model mutant
+{
+
+"data": {
+
+name: "",
+rol: "heroe" //villano,
+city: "",
+condition: "", //preso and //libre //desconocido
+Abilities:{
+		power: "",
+		power2: "",
+            }
+
+ }
+
+
+Model vehicle
+{
+"data": {
+vehicle:{
+	name: "",
+	type: "",
+	
+        }
+        }
+}
