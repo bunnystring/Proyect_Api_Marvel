@@ -22,6 +22,12 @@ const MutantScheme = new mongoose.Schema(
         abilities: {
             type:String
         },
+        abilities3: {
+            type:String
+        },
+        abilities2: {
+            type:String
+        },
         vehiclesId: {
             type: mongoose.Types.ObjectId, // Debe conformar un cierto patron de numero de caracteres
         },
